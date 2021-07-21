@@ -10,7 +10,10 @@ package com.mycompany.pruebainicialparagit;
  * @author janus
  */
 public class ClasePrueba {
-    public int suma (int 1, int b){
+    public int suma (int a, int b){
     return a+b;
+}
+    public int resta (int a, int b){
+    return a-b;
 }
 }
