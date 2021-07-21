@@ -22,7 +22,7 @@ public class ClasePrueba {
     public int multiplicacion (int a, int b){
         return a*b;
     }
-    
+    //nuevo 
     public int resto (int a, int b){
         return a%b;
     }
